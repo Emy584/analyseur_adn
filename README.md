@@ -30,7 +30,7 @@ Aucune bibliothèque tierce n'est requise. Il suffit de disposer de **Python 3.x
 
 1. Cloner ce dépôt (ou télécharger les fichiers) :
    ```bash
-   git clone [https://github.com/votre-utilisateur/bio-analyse-adn.git](https://github.com/votre-utilisateur/bio-analyse-adn.git)
+   git clone [https://github.com/Emy584/analyseur_adn.git](https://github.com/Emy584/analyseur_adn.git)
    cd bio-analyse-adn
    ```
 
